@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Android Mobile Application || Website.
 - 🌱 I’m just an intern student.
 - 😎 Looking for a job as Android Mobile Application Developer.
-- 💬 Study about Bootstrap, Tailwind, Html, Css, Javascript.
+- 💬 Self-learning about Bootstrap, Tailwind, Html, Css, Javascript.
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muhammad-danial-1654b1176/)
 
 ## My Github Stats:
