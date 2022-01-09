@@ -1,6 +1,6 @@
 ### Hi there I'm Dani 😎👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=merttoptas.visitor-badge)
+![](https://komarev.com/ghpvc/?username=DaniXyrus)
 
 **DaniXyrus/DaniXyrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
