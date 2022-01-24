@@ -2,6 +2,8 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DaniXyrus.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
+<img src="https://raw.githubusercontent.com/DaniXyrus/DaniXyrus/master/GitHub%20header.png">
+
 **DaniXyrus/DaniXyrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
