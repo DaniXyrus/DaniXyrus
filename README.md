@@ -10,9 +10,7 @@
  
 <br>
  
-<a href="#">
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=DaniXyrus&repo=DaniXyrus&countColor=%237B1E7A" />
- </a>
+ <img src="https://api.visitorbadge.io/api/VisitorHit?user=DaniXyrus&repo=DaniXyrus&countColor=%237B1E7A" />
  
  <br>
 
