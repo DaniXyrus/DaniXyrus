@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniXyrus&layout=compact)](https://github.com/DaniXyrus/MCaSeP)
 
+<br><br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaniXyrus&column=7&theme=onedark" />
+</div>
+
 ## Contact
 
 - [Linkedin](https://www.linkedin.com/in/muhammad-danial-1654b1176/)
