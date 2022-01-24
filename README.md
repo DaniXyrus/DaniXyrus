@@ -1,4 +1,6 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=DaniXyrus.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=DaniXyrus&repo=DaniXyrus&countColor=%237B1E7A" />
+ </a>
 
 <img src="https://raw.githubusercontent.com/DaniXyrus/DaniXyrus/main/header.png">
 
