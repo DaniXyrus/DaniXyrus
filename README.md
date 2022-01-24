@@ -2,12 +2,19 @@
 ![GitHub forks](https://img.shields.io/github/forks/DaniXyrus/DaniXyrus?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/DaniXyrus/DaniXyrus?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/DaniXyrus/DaniXyrus?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/DaniXyrus/DaniXyrus?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/DaniXyrus/DaniXyrus?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/DaniXyrus/DaniXyrus?color=red&style=plastic)
  
 <br>
  
 <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=DaniXyrus&repo=DaniXyrus&countColor=%237B1E7A" />
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=DaniXyrus&repo=DaniXyrus&countColor=%237B1E7A" />
  </a>
+ 
+ <br>
 
 <img src="https://raw.githubusercontent.com/DaniXyrus/DaniXyrus/main/header.png">
 
