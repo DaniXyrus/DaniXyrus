@@ -1,8 +1,11 @@
+![GitHub stars](https://img.shields.io/github/stars/DaniXyrus/DaniXyrus?style=social)
+![GitHub forks](https://img.shields.io/github/forks/DaniXyrus/DaniXyrus?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/DaniXyrus/DaniXyrus?style=social)
+![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+ 
+<br>
+ 
 <a href="#">
-      ![GitHub stars](https://img.shields.io/github/stars/DaniXyrus/DaniXyrus?style=social)
-      ![GitHub forks](https://img.shields.io/github/forks/DaniXyrus/DaniXyrus?style=social)
-      ![GitHub watchers](https://img.shields.io/github/watchers/DaniXyrus/DaniXyrus?style=social)
-      ![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=DaniXyrus&repo=DaniXyrus&countColor=%237B1E7A" />
  </a>
 
